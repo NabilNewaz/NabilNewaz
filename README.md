@@ -36,6 +36,7 @@ expand my learning and builds upon my developer skills.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?&logo=react-router&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?&logo=json-web-tokens&logoColor=pink)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white)
